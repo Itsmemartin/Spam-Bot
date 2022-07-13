@@ -2,7 +2,7 @@ import keep_alive
 import discord
 import time
 
-TOKEN = 'OTk2NzQ2NDI5NTc1OTg3MjEw.GYeLZm.BwBWVJmNSzz2jOCBZVhtIzZGu66Kd4vFdtjpv4'
+TOKEN = '#Enter Bot token here'
 client = discord.Client()
 
 @client.event
